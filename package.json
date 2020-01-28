@@ -1,0 +1,30 @@
+{
+  "name": "bootcamp-gostack-introducao-ao-nodejs",
+  "version": "1.0.0",
+  "description": "Código da introdução ao NodeJS do Bootcamp GoStack",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsants/bootcamp-gostack-introducao-ao-nodejs.git"
+  },
+  "keywords": [
+    "go-stack",
+    "bootcamp",
+    "nodejs",
+    "js"
+  ],
+  "author": "Marcelo Batista dos Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrsants/bootcamp-gostack-introducao-ao-nodejs/issues"
+  },
+  "homepage": "https://github.com/mrsants/bootcamp-gostack-introducao-ao-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
